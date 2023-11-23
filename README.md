@@ -29,8 +29,6 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Blockchain Engineer and contributing to Cosmos Ecosystem.
 
-- 🔭 I’m currently working on Notional Labs (https://notional.ventures/)
-
 - 🌱 I graduated from Hanoi University of Science and Technology
 
 ---
