@@ -28,8 +28,8 @@
 
 ---
 
-**Contributions**
+**Stats**
 
 <p align="center">
-  <img src="https://ghchart.ssh.surf/anhductn2001" alt="GitHub contribution chart"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anhductn2001&theme=dark&background=000000" height="150"/>
 </p>
